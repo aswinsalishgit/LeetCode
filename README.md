@@ -1,3 +1,21 @@
+<!-- ACELC_DASHBOARD_START -->
+<h2 align="center">Problem Solving Dashboard</h2>
+
+| Total Solved | Easy | Medium | Hard |
+| :---: | :---: | :---: | :---: |
+| **1** | **1** | **0** | **0** |
+
+<h3 align="center">Problem Index</h3>
+
+| # | Title | Difficulty | Solution | Statement | Runtime | Memory |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](Arrays/0001-Two-Sum/SOLUTION.java) | [Problem](Arrays/0001-Two-Sum/PROBLEM.md) | 2
+ms (99.42%) | 46.49
+MB (85.30%) |
+<!-- ACELC_DASHBOARD_END -->
+
+---
+
 # LeetCode Journey
 
 A collection of my practice LeetCode solutions, documenting my progress in Data Structures and Algorithms.
@@ -68,18 +86,3 @@ This repository is intended for educational purposes and personal learning. All 
 **Consistency over perfection. One problem at a time.**
 
 ---
-
-<!-- ACELC_DASHBOARD_START -->
-### 📊 Problem Solving Dashboard
-
-| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
-| :---: | :---: | :---: | :---: |
-| **2** | **1** | **1** | **0** |
-
-#### 📚 Problem Index
-
-| # | Title | Difficulty | Solution | Statement | Runtime | Memory |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
-| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Solution](Arrays/0009-Palindrome-Number/SOLUTION.java) | [Problem](Arrays/0009-Palindrome-Number/PROBLEM.md) | 0 ms (0%) | 41.5 MB (0%) |
-| ---- | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟡 Medium | [Solution](Arrays/0000-Two-Sum/SOLUTION.java) | [Problem](Arrays/0000-Two-Sum/PROBLEM.md) | N/A | N/A |
-<!-- ACELC_DASHBOARD_END -->
