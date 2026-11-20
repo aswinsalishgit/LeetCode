@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **1** | **1** | **0** | **0** |
+| **2** | **2** | **0** | **0** |
 
 <h3 align="center">Problem Index</h3>
 
@@ -12,7 +12,12 @@
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](Arrays/0001-Two-Sum/SOLUTION.java) | [Problem](Arrays/0001-Two-Sum/PROBLEM.md) | 2
 ms (99.42%) | 46.54
 MB (76.66%) |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Solution](Arrays/0009-Palindrome-Number/SOLUTION.java) | [Problem](Arrays/0009-Palindrome-Number/PROBLEM.md) | 18
+ms (6.60%) | 45.58
+MB (64.36%) |
 <!-- ACELC_DASHBOARD_END -->
+
+---
 
 ---
 
