@@ -1,21 +1,24 @@
 <!-- ACELC_DASHBOARD_START -->
-<h2 align="center">Problem Solving Dashboard</h2>
+<div align="center">
 
-| Total Solved | Easy | Medium | Hard |
-| :---: | :---: | :---: | :---: |
-| **2** | **2** | **0** | **0** |
+<h2>Problem Solving Dashboard</h2>
 
-<h3 align="center">Problem Index</h3>
+<table>
+<tr><th>Total Solved</th><th>Easy</th><th>Medium</th><th>Hard</th></tr>
+<tr><td align="center"><b>1</b></td><td align="center"><b>1</b></td><td align="center"><b>0</b></td><td align="center"><b>0</b></td></tr>
+</table>
 
-| # | Title | Difficulty | Solution | Statement | Runtime | Memory |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](Arrays/0001-Two-Sum/SOLUTION.java) | [Problem](Arrays/0001-Two-Sum/PROBLEM.md) | 2
-ms (99.42%) | 46.54
-MB (76.66%) |
-| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Solution](Arrays/0009-Palindrome-Number/SOLUTION.java) | [Problem](Arrays/0009-Palindrome-Number/PROBLEM.md) | 18
-ms (6.60%) | 45.58
-MB (64.36%) |
+<h3>Problem Index</h3>
+
+<table>
+<tr><th>#</th><th>Title</th><th>Difficulty</th><th>Solution</th><th>Statement</th><th>Runtime</th><th>Memory</th></tr>
+<tr><td align="center">0009</td><td align="center"><a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a></td><td align="center">Easy</td><td align="center"><a href="Arrays/0009-Palindrome-Number/SOLUTION.java">Solution</a></td><td align="center"><a href="Arrays/0009-Palindrome-Number/PROBLEM.md">Problem</a></td><td align="center">18 ms (6.60%)</td><td align="center">45.30 MB (92.06%)</td></tr>
+</table>
+
+</div>
 <!-- ACELC_DASHBOARD_END -->
+
+---
 
 ---
 
