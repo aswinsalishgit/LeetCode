@@ -3,19 +3,18 @@
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **2** | **2** | **0** | **0** |
+| **1** | **1** | **0** | **0** |
 
 <h3 align="center">Problem Index</h3>
 
 | # | Title | Difficulty | Solution | Statement | Runtime | Memory |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](Arrays/0001-Two-Sum/SOLUTION.java) | [Problem](Arrays/0001-Two-Sum/PROBLEM.md) | 2
-ms (99.42%) | 46.49
-MB (85.30%) |
-| 0009 | [Two Sum](https://leetcode.com/problems/palindrome-number/) | Easy | [Solution](Arrays/0009-Two-Sum/SOLUTION.java) | [Problem](Arrays/0009-Two-Sum/PROBLEM.md) | 18
-ms (6.54%) | 45.72
-MB (47.30%) |
+ms (99.42%) | 46.54
+MB (76.66%) |
 <!-- ACELC_DASHBOARD_END -->
+
+---
 
 ---
 
