@@ -74,11 +74,12 @@ This repository is intended for educational purposes and personal learning. All 
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: |
-| **1** | **0** | **1** | **0** |
+| **2** | **1** | **1** | **0** |
 
 #### 📚 Problem Index
 
 | # | Title | Difficulty | Solution | Statement | Runtime | Memory |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Solution](Arrays/0009-Palindrome-Number/SOLUTION.java) | [Problem](Arrays/0009-Palindrome-Number/PROBLEM.md) | 0 ms (0%) | 41.5 MB (0%) |
 | ---- | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟡 Medium | [Solution](Arrays/0000-Two-Sum/SOLUTION.java) | [Problem](Arrays/0000-Two-Sum/PROBLEM.md) | N/A | N/A |
 <!-- ACELC_DASHBOARD_END -->
