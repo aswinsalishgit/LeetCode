@@ -1,0 +1,8 @@
+[submodule "projects/LeetCode-CompanyWise"]
+	path = projects/LeetCode-CompanyWise
+	url = https://github.com/aswinsalishgit/LeetCode-CompanyWise.git
+	branch = main
+[submodule "LeetCode-CompanyWise"]
+	path = LeetCode-CompanyWise
+	url = https://github.com/aswinsalishgit/LeetCode-CompanyWise.git
+	branch = main
