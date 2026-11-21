@@ -5,18 +5,20 @@
 
 <table>
 <tr><th>Total Solved</th><th>Easy</th><th>Medium</th><th>Hard</th></tr>
-<tr><td align="center"><b>2</b></td><td align="center"><b>2</b></td><td align="center"><b>0</b></td><td align="center"><b>0</b></td></tr>
+<tr><td align="center"><b>4</b></td><td align="center"><b>4</b></td><td align="center"><b>0</b></td><td align="center"><b>0</b></td></tr>
 </table>
 
 <h3>Problem Index</h3>
 
 <table>
 <tr><th>#</th><th>Title</th><th>Difficulty</th><th>Solution</th><th>Statement</th><th>Runtime</th><th>Memory</th></tr>
-<tr><td align="center">0001</td><td align="center"><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td><td align="center">Easy</td><td align="center"><a href="Array/0001-Two-Sum/SOLUTION.java">Solution</a></td><td align="center"><a href="Array/0001-Two-Sum/PROBLEM.md">Problem</a></td><td align="center">2 ms (99.42%)</td><td align="center">46.37 MB (90.77%)</td></tr><tr><td align="center">0009</td><td align="center"><a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a></td><td align="center">Easy</td><td align="center"><a href="Array/0009-Palindrome-Number/SOLUTION.java">Solution</a></td><td align="center"><a href="Array/0009-Palindrome-Number/PROBLEM.md">Problem</a></td><td align="center">19 ms (6.60%)</td><td align="center">45.20 MB (96.11%)</td></tr>
+<tr><td align="center">0001</td><td align="center"><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td><td align="center">Easy</td><td align="center"><a href="Array/0001-Two-Sum/SOLUTION.java">Solution</a></td><td align="center"><a href="Array/0001-Two-Sum/PROBLEM.md">Problem</a></td><td align="center">2 ms (99.42%)</td><td align="center">46.37 MB (90.77%)</td></tr><tr><td align="center">0009</td><td align="center"><a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a></td><td align="center">Easy</td><td align="center"><a href="Array/0009-Palindrome-Number/SOLUTION.java">Solution</a></td><td align="center"><a href="Array/0009-Palindrome-Number/PROBLEM.md">Problem</a></td><td align="center">19 ms (6.60%)</td><td align="center">45.20 MB (96.11%)</td></tr><tr><td align="center">0217</td><td align="center"><a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td><td align="center">Easy</td><td align="center"><a href="Array/0217-Contains-Duplicate/SOLUTION.java">Solution</a></td><td align="center"><a href="Array/0217-Contains-Duplicate/PROBLEM.md">Problem</a></td><td align="center">18 ms (78.50%)</td><td align="center">107.55 MB (65.33%)</td></tr><tr><td align="center">0219</td><td align="center"><a href="https://leetcode.com/problems/contains-duplicate-ii/">Contains Duplicate II</a></td><td align="center">Easy</td><td align="center"><a href="Array/0219-Contains-Duplicate-Ii/SOLUTION.java">Solution</a></td><td align="center"><a href="Array/0219-Contains-Duplicate-Ii/PROBLEM.md">Problem</a></td><td align="center">33 ms (36.08%)</td><td align="center">104.58 MB (89.02%)</td></tr>
 </table>
 
 </div>
 <!-- ACELC_DASHBOARD_END -->
+
+---
 
 ---
 
